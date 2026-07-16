@@ -23,7 +23,7 @@
 
 Egresado de Ingeniería de Software (Universidad La Salle, Arequipa) con más de 5 años
 dedicado al desarrollo. Trabajo full stack en aplicaciones web a medida y también en
-infraestructura, soporte de TI y machine learning. Actualmente becario en el área de TI
+infraestructura, soporte de TI y machine learning. Actualmente becario en Morris & Opazo
 y co-fundador de **WolfDev Solutions**, un estudio de producto digital.
 
 Certificado **AWS Certified Cloud Practitioner** y en camino a **AWS Certified AI Practitioner**.
